@@ -2,6 +2,8 @@
 
 By [Allie McCarthy](https://github.com/spaceplesiosaur), [Kate Malone](https://github.com/katemalone), [Allison Wagner](https://github.com/allisonjw)
 
+[Visit the live page](http://rancid-tomatillos.surge.sh/)
+
 This is application designed by was built with `create-react-app`.
 
 ### Set Up
